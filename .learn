@@ -9,3 +9,4 @@ resources:
 time: 
   - 15 minutes
   
+parent_template: git@github.com:learn-co-curriculum/sinatra-routes-readme.git
