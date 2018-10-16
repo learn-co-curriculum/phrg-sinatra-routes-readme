@@ -111,6 +111,10 @@ The `get` , or the `post`, or `delete` methods for that matter, will be invoked 
 
 - [Routes in Sinatra](http://www.sinatrarb.com/intro.html#Routes)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-routes-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-routes-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <a href='https://learn.co/lessons/sinatra-routes-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>PHRG Routes in Sinatra</p>
